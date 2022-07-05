@@ -1,4 +1,8 @@
 *.csv
 *.json
 *.tar
+*.zip
+twt.txt
+yelp_api_key.txt
 yelp_dataset
+*.txt
