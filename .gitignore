@@ -7,3 +7,14 @@ yelp_dataset
 *.txt
 *csv
 *.xlsx
+*.npz
+
+data/models/individual_review_features.pkl
+
+data/models/individual_review_model_ridge.pkl
+
+data/models/individual_review_model.pkl
+
+data/models/reddit_comments_features.pkl
+
+data/models/reddit_comments_model.pkl
