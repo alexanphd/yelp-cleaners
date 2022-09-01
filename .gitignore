@@ -9,3 +9,5 @@ yelp_dataset
 *.xlsx
 *.npz
 *.pkl
+
+*.gz

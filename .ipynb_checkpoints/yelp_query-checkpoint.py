@@ -30,4 +30,4 @@ def get_business_id(name="Shanghai Noodle House", address="10300 Anderson Mill R
 def get_reviews(name="Shanghai Noodle House", address="10300 Anderson Mill Rd, Ste A"):
     bid = get_business_id(name=name, address=address)
     if bid:
-        return df[df['business_id'] == bid].text.values
+        return bid, df[df['business_id'] == bid].text.values
