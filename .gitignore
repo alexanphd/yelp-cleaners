@@ -5,9 +5,85 @@ twt.txt
 yelp_api_key.txt
 yelp_dataset
 *.txt
-*csv
+
 *.xlsx
 *.npz
-*.pkl
-
 *.gz
+
+data/models/aggregate_model/15percent_vectors_agg_model.pkl
+
+data/models/aggregate_model/mean_vectors_agg_model_ridge.pkl
+
+data/models/aggregate_model/supervised_model_GBtree.pkl
+
+data/models/old stuff/individual_review_features.pkl
+
+data/models/old stuff/individual_review_model_ridge.pkl
+
+data/models/old stuff/individual_review_model.pkl
+
+data/models/old stuff/reddit_comments_features.pkl
+
+data/models/old stuff/reddit_comments_model.pkl
+
+data/models/review_model/supervised_features.pkl
+
+data/models/review_model/supervised_model_ridge.pkl
+
+data/Inspection data/Austin/Food_Establishment_Inspection_Scores.csv
+
+data/Inspection data/Las Vegas/restaurant_categories.csv
+
+data/Inspection data/Las Vegas/restaurant_cities.csv
+
+data/Inspection data/Las Vegas/restaurant_establishments.csv
+
+data/Inspection data/Las Vegas/restaurant_inspection_types.csv
+
+data/Inspection data/Las Vegas/restaurant_inspections_stanford.csv
+
+data/Inspection data/Las Vegas/restaurant_inspections.csv
+
+data/Inspection data/Las Vegas/restaurant_pe_category_xref.csv
+
+data/Inspection data/Las Vegas/restaurant_serials.csv
+
+data/Inspection data/Las Vegas/restaurant_violations.csv
+
+data/Inspection data/Las Vegas/restaurants_serials.csv
+
+data/Inspection data/Los Angeles/inspections.csv
+
+data/Inspection data/Los Angeles/Restaurant_and_Market_Health_Inspections.csv
+
+data/models/review_model/15percent_vectors_full_df.csv
+
+data/models/review_model/15percent_vectors.csv
+
+data/models/review_model/top5percent_per_review.csv
+
+data/processed data/.ipynb_checkpoints/reddit_comments-checkpoint.csv
+
+data/processed data/austin_inspections.csv
+
+data/processed data/austin_restaurants.csv
+
+data/processed data/business_df_latest_inspection.csv
+
+data/processed data/business_df.csv
+
+data/processed data/business_id_df.csv
+
+data/processed data/business_ids.csv
+
+data/processed data/inspections_yelp.csv
+
+data/processed data/reddit_comments.csv
+
+data/processed data/review_df.csv
+
+data/processed data/reviews_nearest_score_2_years_df.csv
+
+data/processed data/reviews_nearest_score_no_limit_df_languages.csv
+
+data/processed data/reviews_nearest_score_no_limit_df.csv
